@@ -1,0 +1,25 @@
+payload:
+{
+	"loadingPoint": "delhi",
+	"unloadingPoint": "jaipur",
+	"productType": "chemicals",
+	"truckType": "canter",
+	"noOfTrucks": "1",
+	"weight": "100",
+            optional:"comment": "",
+	“shipperId” : “shipper:<UUID>”,
+	“Date” : “dd-mm-yyyy”
+	
+}
+{
+    "shipperName": "ABC Logistics",
+    "contactNumber": "1234567890",
+    "email": "abc@logistics.com",
+    "address": "123 Street, City, Country"
+}
+{
+    "shipperName": "XYZ Logistics",
+    "contactNumber": "0987654321",
+    "email": "xyz@logistics.com",
+    "address": "456 Avenue, City, Country"
+}
